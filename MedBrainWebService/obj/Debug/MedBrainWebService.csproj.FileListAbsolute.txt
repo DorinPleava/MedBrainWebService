@@ -1,0 +1,6 @@
+c:\users\dpleava\documents\visual studio 2013\Projects\MedBrainWebService\MedBrainWebService\bin\MedBrainWebService.dll.config
+c:\users\dpleava\documents\visual studio 2013\Projects\MedBrainWebService\MedBrainWebService\bin\MedBrainWebService.dll
+c:\users\dpleava\documents\visual studio 2013\Projects\MedBrainWebService\MedBrainWebService\bin\MedBrainWebService.pdb
+c:\users\dpleava\documents\visual studio 2013\Projects\MedBrainWebService\MedBrainWebService\obj\Debug\MedBrainWebService.csprojResolveAssemblyReference.cache
+c:\users\dpleava\documents\visual studio 2013\Projects\MedBrainWebService\MedBrainWebService\obj\Debug\MedBrainWebService.dll
+c:\users\dpleava\documents\visual studio 2013\Projects\MedBrainWebService\MedBrainWebService\obj\Debug\MedBrainWebService.pdb
